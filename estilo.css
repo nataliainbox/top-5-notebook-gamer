@@ -3,17 +3,17 @@ body{
     width: 100vw; 
     background: rgb(2,0,36); 
     background: linear-gradient(351deg,
-    rgba(2,0,36,1) 0%, 
+    rgb(3, 1, 42) 0%, 
     rgba(0, 0, 0, 0.367) 93%); 
 }
 :root {
-    --cor-de-fundo: ##1E1E1E;
+    --cor-de-fundo: ##000000;
     --verde: #000000;
     --vermelho: #000000;
-    --branco: #000000;
-    --botao-ativo: #030026;
-    --botao-inativo: rgba(20, 18, 46, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --branco: #ffffff;
+    --botao-ativo: #000000;
+    --botao-inativo: rgba(0, 0, 0, 0.5);
+    --texto-fundo: rgba(0, 0, 0, 0.3);
 }
 body{
     background-color: var(--cor-de-fundo);
