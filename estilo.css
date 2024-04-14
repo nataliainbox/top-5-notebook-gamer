@@ -1,4 +1,21 @@
 body {
+    background-color: rgb(10, 10, 10);
+    color: rgba(102, 102, 102, 1);
+}
+body {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1rem;
+}
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+}
+body {
     --wp--preset--color--black: #000000;
     --wp--preset--color--cyan-bluish-gray: #abb8c3;
     --wp--preset--color--white: #ffffff;
