@@ -4,15 +4,15 @@ body{
     background: rgb(2,0,36); 
     background: linear-gradient(351deg,
     rgba(2,0,36,1) 0%, 
-    rgba(168,31,13,0.36738445378151263) 93%); 
+    rgba(0, 0, 0, 0.367) 93%); 
 }
 :root {
     --cor-de-fundo: ##1E1E1E;
-    --verde: #6FFF57;
-    --vermelho: #FF000F;
+    --verde: #000000;
+    --vermelho: #000000;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --botao-ativo: #030026;
+    --botao-inativo: rgba(20, 18, 46, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 body{
@@ -40,7 +40,7 @@ body{
 
 }
 .titulo-principal {
-    color: black;
+    color: blue;
     text-align: left;
     width: 100%;
     font-size: 32px;
