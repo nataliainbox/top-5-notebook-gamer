@@ -10,7 +10,7 @@ body{
     --cor-de-fundo: ##1E1E1E;
     --verde: #000000;
     --vermelho: #000000;
-    --branco: #FFFFFF;
+    --branco: #000000;
     --botao-ativo: #030026;
     --botao-inativo: rgba(20, 18, 46, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
@@ -40,7 +40,7 @@ body{
 
 }
 .titulo-principal {
-    color: blue;
+    color: rgb(255, 255, 255);
     text-align: left;
     width: 100%;
     font-size: 32px;
