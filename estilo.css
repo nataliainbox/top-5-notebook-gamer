@@ -6,6 +6,7 @@ body{
     rgb(0, 0, 0) 0%, 
     rgba(0, 0, 0, 0.367) 93%); 
 }
+
 :root {
     --cor-de-fundo: #d4d1d1;
     --verde: #585757;
@@ -15,9 +16,11 @@ body{
     --botao-inativo: rgba(0, 0, 0, 0.5);
     --texto-fundo: rgba(0, 0, 0, 0.3);
 }
+
 body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-fundo);
+    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow';
 }
 .conteudo-principal {
@@ -39,12 +42,14 @@ body{
     max-width: 1200;
 
 }
+
 .titulo-principal {
     color: rgb(255, 255, 255);
     text-align: left;
     width: 100%;
     font-size: 32px;
 }
+
 .botao {
     background-color: var(--botao-inativo);
     color: var(--preto);
