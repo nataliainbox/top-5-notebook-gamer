@@ -71,8 +71,8 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(var(--preto));
 }
-.abas-texto{
-    background: #4d91f8;
+.abas-textos{
+    background: #0064fa;
 
 }
 @media screen and (min-width:768px){
