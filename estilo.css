@@ -8,13 +8,13 @@ body{
 }
 
 :root {
-    --cor-de-fundo: #312d2d;
+    --cor-de-fundo: #d4d1d1;
     --verde: #ec1515;
     --vermelho: #000000;
     --branco: #050028;
     --botao-ativo: #8d1616;
     --botao-inativo: rgba(0, 0, 0, 0.5);
-    --texto-fundo: rgba(0, 0, 0, 0.616);
+    --texto-fundo: rgba(0, 0, 0, 0.5);
 }
 
 body{
