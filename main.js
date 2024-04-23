@@ -1,4 +1,6 @@
 const botoes = document.querySelectorAll(".botao")
+const textos = documents.querySelectorAll
+console.log(textos)
 
 for(let i =0;i<botoes.length;i++){
     console.log(botoes[i])
