@@ -12,7 +12,7 @@ body{
     --verde: #ec1515;
     --vermelho: #000000;
     --branco: #050028;
-    --botao-ativo: #000000;
+    --botao-ativo: #dd1b1b;
     --botao-inativo: rgba(0, 0, 0, 0.5);
     --texto-fundo: rgba(0, 0, 0, 0.3);
 }
