@@ -44,7 +44,7 @@ body{
 }
 
 .titulo-principal {
-    color: rgb(196, 190, 190);
+    color: (255, 255, 255);
     text-align: left;
     width: 100%;
     font-size: 32px;
