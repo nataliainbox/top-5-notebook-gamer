@@ -12,9 +12,9 @@ body{
     --verde: #032ea5;
     --vermelho: #000000;
     --branco: #050028;
-    --botao-ativo: #8d1616;
+    --botao-ativo: #000000;
     --botao-inativo: rgba(0, 0, 0, 0.5);
-    --texto-fundo: rgba(0, 0, 0, 0.5);
+    --texto-fundo: rgba(0, 0, 0, 0.3);
 }
 
 body{
